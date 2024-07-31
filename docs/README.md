@@ -1,0 +1,8 @@
+## Informações Gerais
+
+Todos os artefatos disponíveis têm o propósito de auxiliar na construção do software <i>RQ_ISP</i>, você pode acessá-los facilmente através do menu lateral à esquerda.
+
+
+## Sobre o projeto
+
+Falhas e defeitos em software podem resultar em interrupções indesejadas e custos adicionais no desenvolvimento de software. A inspeção de artefatos de software é essencial para revisar, identificar e corrigir falhas antes que causem problemas. Esse processo melhora a qualidade do software e evita consequências negativas. A eficiência das inspeções de artefatos de software pode ser comprometida pela ausência de métodos e ferramentas que apoiem esse processo. Métodos aprimorados e ferramentas de suporte são, portanto, essenciais para otimizar essas inspeções. O objetivo deste trabalho é propor uma solução chamada Requirement Inspection (RQ_ISP) para apoiar o processo de inspeção de artefatos de software. A metodologia aplicada para o desenvolvimento dessa ferramenta inclui várias etapas: planejamento, elicitação e refinamento de requisitos, elaboração e validação de interface gráfica, além do desenvolvimento e validação do software. Cada uma dessas etapas foi planejada e executada para garantir a eficácia e a utilidade da ferramenta proposta. O percurso metodológico seguido permitiu o desenvolvimento do mínimo produto viável (MVP) da ferramenta. Espera-se que a adoção desta ferramenta resulte em um impacto positivo na qualidade do software e na eficiência das inspeções de artefatos.
